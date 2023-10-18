@@ -7,7 +7,7 @@ flatten = True
 
 one_hot_label = True
 
-val_data = True
+val_data = False
 
 # 模型参数
 lr = 0.5
